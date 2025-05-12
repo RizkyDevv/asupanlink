@@ -1,6 +1,6 @@
 [
-  { "title": "Channel 1 - Movie HD", "streamUrl": "https://dhcplay.com/e/3y8n96cv58jz" },
-  { "title": "Channel 2 - Sport Live", "streamUrl": "https://streamhg.com/embed/sport1" },
-  { "title": "Channel 3 - News 24/7", "streamUrl": "https://streamhg.com/embed/news1" },
-  { "title": "Channel 4 - Dokumenter", "streamUrl": "https://streamhg.com/embed/docu1" }
+  { "title": "Movie HD", "streamUrl": "https://dhcplay.com/e/3y8n96cv58jz" },
+  { "title": "Sport Live", "streamUrl": "https://streamhg.com/embed/sport1" },
+  { "title": "News 24/7", "streamUrl": "https://streamhg.com/embed/news1" },
+  { "title": "Documentaries", "streamUrl": "https://streamhg.com/embed/docu1" }
 ]
